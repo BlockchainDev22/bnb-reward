@@ -1,4 +1,27 @@
 # Rewarder.net
-![image](https://github.com/climax-solution/rewarder.net/assets/85182580/53b23986-d9bb-4726-a744-3b3bdc2a3b5e)
 
-![image](https://github.com/climax-solution/rewarder.net/assets/85182580/c70844cc-0823-4b1a-b159-25a748cd97f7)
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Live
+See [BNB Reward](https://rewarder.net/).
+
+### Preview
+![alt text](https://github.com/BlockchainDev22/bnb-reward/blob/main/assets/intro.png)
